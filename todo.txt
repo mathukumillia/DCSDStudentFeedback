@@ -1,0 +1,5 @@
+0) make database work -- if I host this, the database in the all.js file in the env folder in config must be changed
+1) check copyright on dcsd logo
+2) Make title reflect current school
+3) Make sure mountain vista is not the first school on the list
+4) Change up the fonts

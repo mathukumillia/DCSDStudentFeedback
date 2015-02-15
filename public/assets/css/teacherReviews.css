@@ -1,0 +1,36 @@
+.teacherProfile{
+	background: #FFCC00;
+	padding: 25px;
+	border: 2px solid black;
+	margin-bottom: 10px;
+	width: 75%;
+}
+
+.addReview{
+	position: relative;
+	top: -82px;
+	left: 78%;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+}
+
+.addReview div{
+	background-color: #FFCC00;
+	padding: 25px;
+	border: 2px solid black;
+	width: 18%;
+}
+
+.addReview div:hover{
+	background-color: #FFFF00;
+	-webkit-transition: 500ms;
+}
+
+.review{
+	position: relative;
+	top: -80px;
+	background: #FFCC00;
+	padding: 25px;
+	border: 2px solid black;
+}

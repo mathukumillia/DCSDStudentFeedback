@@ -1,0 +1,17 @@
+.teachers{
+	text-decoration: none;
+	color: black;
+}
+
+.teachers div{
+	padding: 20px;
+	background-color: #FFCC00;
+	width: 150px;
+	text-align: center;
+	margin: 10px;
+}
+
+.teachers div:hover{
+	background-color: #FFFF00;
+	-webkit-transition: 500ms;
+}

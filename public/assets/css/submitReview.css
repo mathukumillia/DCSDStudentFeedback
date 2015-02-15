@@ -1,0 +1,13 @@
+#reviewForm{
+	color: white;
+}
+#reviewForm input{
+	margin: 10px;
+}
+#reviewForm select{
+	margin: 10px;
+}
+#reviewForm textarea{
+	margin: 10px;
+	font-family: Arial;
+}

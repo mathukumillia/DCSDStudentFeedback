@@ -1,0 +1,19 @@
+.departments{
+	text-decoration: none;
+	color: black;
+}
+
+.departments div{
+	background-color: #FFCC00;
+	height: 100px;
+	width: 140px;
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	display: inline-block;
+}
+
+.departments div:hover{
+	background-color: #FFFF00;
+	-webkit-transition: 500ms;
+}

@@ -1,0 +1,5 @@
+<section ng-controller = "teachers" ng-init = "displayTeachers()">
+
+	<a class = "teachers" ng-repeat = "teacher in teachers" ng-href = "/#!/{{teacher.school}}/{{teacher.department}}/{{teacher.name}}"><div>{{teacher.name}}</div></a>
+
+</section>

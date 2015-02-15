@@ -1,0 +1,19 @@
+.navMenu div{
+	display: inline-block;
+	width: 140px;
+	padding: 20px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin: 20px;
+	background-color: #FFCC00;
+	text-align: center;
+}
+
+.navMenu a{
+	color: black;
+}
+
+.navMenu div:hover{
+	background-color: #FFFF00;
+	-webkit-transition: 500ms;
+}

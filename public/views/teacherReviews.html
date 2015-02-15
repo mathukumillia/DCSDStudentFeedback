@@ -1,0 +1,9 @@
+<section ng-controller = "teacherReviews" ng-init = "displayReviews()">
+
+	<div class = "teacherProfile">
+		Teacher: {{teacher}}
+	</div>
+	<a class = "addReview" ng-href="/#!/{{school}}/{{department}}/{{teacher}}/writeReview"><div>Write a Review</div></a>
+	<div class = "review" href="" ng-repeat = "review in reviews">{{review.content}}</div>
+
+</section>
